@@ -1,1 +1,1 @@
-# First-aplicattion-whith-react-Native
+# First-application-whith-react-Native
